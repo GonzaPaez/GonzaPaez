@@ -15,7 +15,7 @@ Soy estudiante de la Licenciatura de Ciencias Geológicas  y una persona entusia
 
 
 # Habilidades Adicionales
-- Aprendizaje Continuo: Apasionado por mantenerme actualizado con las últimas tendencias y tecnologías en desarrollo web. Actualmente me encuentro aprendiendo nuevas tecnologias como React, T
+- Aprendizaje Continuo: Apasionado por mantenerme actualizado con las últimas tendencias y tecnologías en desarrollo web. Actualmente me encuentro aprendiendo nuevas tecnologias como React, Tailwind CSS, Bootstrap, Flet, Reflex, entre otros.
 - Resolución de Problemas: Abordé desafíos complejos durante proyectos prácticos, demostrando habilidades efectivas de resolución de problemas.
 
 # Objetivo Profesional
