@@ -1,7 +1,7 @@
 # Desarrollador de Python Junior 🐍💻
 Hola, mi nombre es Gonzalo Paez 👋
 
-#Acerca de Mí
+# Acerca de Mí
 Soy estudiante de la Licenciatura de Ciencias Geológicas  y una persona entusiasta de la tecnologia, recién graduado de [Digit@lers](https://institucional.telecom.com.ar/digitalers). Mi objetivo es iniciar mi carrera como desarrollador web y contribuir significativamente en proyectos emocionantes y desafiantes.
 
 # Educación
